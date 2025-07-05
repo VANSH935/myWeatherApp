@@ -1,30 +1,43 @@
-# 🌤️ Weather App
+🌦️ Weather App
+A responsive and modern weather application that shows real-time weather conditions and a 5-day forecast for any city worldwide. The app dynamically changes icons and background animations based on actual weather.
 
-This is a simple weather application built with **HTML**, **CSS**, and **JavaScript** that shows real-time weather information for any city using the OpenWeatherMap API.
+✨ Features
+✅ Search current weather by city name
+✅ 5-Day forecast with temperature range and icons
+✅ Animated video backgrounds based on weather
+✅ Dynamic weather icons reflecting conditions
+✅ Responsive design for mobile, tablet, and desktop
+✅ Real-time weather data using OpenWeatherMap API
 
-## 🚀 Features
+🚀 Tech Stack
+HTML5
+CSS3 (with media queries and modern layout)
+Vanilla JavaScript
+OpenWeatherMap API
+Font Awesome Icons
 
-- Search for any city worldwide
-- Displays temperature, weather description, humidity, and wind speed
-- Weather image changes based on live conditions
-- Fully responsive design
-- Clean and modern UI
-- Video background for aesthetic look
+🌤️ Weather Conditions Covered
+The app adapts visuals for:
+☀️ Clear
+☁️ Clouds
+🌧️ Rain / Drizzle
+🌨️ Snow
+🌫️ Mist / Fog / Haze / Smoke
+⛈️ Storm / Thunderstorm
+💨 Wind
 
-## 🔧 Technologies Used
+🔗 Live Demo
+https://vansh935.github.io/myWeatherApp/
 
-- HTML
-- CSS
-- JavaScript
-- [OpenWeatherMap API](https://openweathermap.org/api)
+📷 Preview
+![image](https://github.com/user-attachments/assets/9312e687-ac99-43a8-acc9-20667891e03a)
+![image](https://github.com/user-attachments/assets/645a3f0f-0a46-4816-95ad-8252816e7fe5)
 
-## 🎬 Demo
+🙌 Credits
+Weather Data: OpenWeatherMap.
+Icons: Font Awesome.
+Background Videos: Free public assets or your own clips.
 
-> You can see a preview of the project here:  
-> Coming Soon !!
-## 📸 Screenshot
+⭐ Support
+If you like this project, please give it a ⭐ on GitHub!
 
-Coming Soon !!
-
-## 📝 How to Use
-Coming Soon !!
