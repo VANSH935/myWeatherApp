@@ -155,13 +155,12 @@ html {
 }
 
 @media (max-width: 768px) {
-    .container {
-        width: 90%;
-        height: 19%;
-        padding: 20px;
+   .container {
+        width: 85%;
+        height: auto;
+        padding: 10px;
         margin-left: 15px;
     }
-
     .search-box {
         width: 95%;
         height: 45px;
